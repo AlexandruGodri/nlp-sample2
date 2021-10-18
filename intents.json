@@ -1,0 +1,33 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "responses": ["Hello", "How are you doing?",   "Greetings!", "How do you do?"]
+        },
+        {   "tag": "goodbye",
+            "responses": ["It was nice speaking to you", "See you later", "Speak soon!"]
+        },
+        {   "tag": "mysql install",
+            "responses": ["You might want to check this link https://stackoverflow.com/questions/37273557/how-to-install-mysql-server-in-ubuntu"]
+        },
+        {   "tag": "java home ubuntu",
+            "responses": ["You might want to check this link https://stackoverflow.com/questions/64804991/java-home-not-found-in-ubuntu"]
+        },
+        {   "tag": "tcp socket time out",
+            "responses": ["You might want to check this link https://unix.stackexchange.com/questions/136642/how-to-make-a-tcp-socket-time-out"]
+        },
+        {   "tag": "nomodeset ubuntu",
+            "responses": ["You might want to check this link https://askubuntu.com/questions/38780/how-do-i-set-nomodeset-after-ive-already-installed-ubuntu"]
+        },
+        {   "tag": "python multiple versions",
+            "responses": ["You might want to check this link https://askubuntu.com/questions/1142982/install-python-3-alongside-python-2-7-on-ubuntu-18-04"]
+        },
+        {   "tag": "ruby install",
+            "responses": ["You might want to check this link https://stackoverflow.com/questions/7057535/how-do-i-install-the-latest-version-of-ruby-in-ubuntu"]
+        },
+        {   "tag": "spring threads",
+            "responses": ["You might want to check this link https://stackoverflow.com/questions/17426878/best-way-to-achieve-thread-functionality-in-spring"]
+        }
+        
+    ]
+}
